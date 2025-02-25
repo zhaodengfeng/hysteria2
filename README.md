@@ -25,7 +25,7 @@ wget -O hy2.py py.willloving.xyz && python3 hy2.py
 ```
 **🙃备用脚本:**
 ```
-wget -O install.sh https://raw.githubusercontent.com/seagullz4/hysteria2/main/install.sh && chmod +x install.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/zhaodengfeng/hysteria2/main/install.sh && chmod +x install.sh && bash install.sh
 ```
 
 **新增快捷方式终端输入hy2一键执行脚本**
